@@ -1,0 +1,142 @@
+"editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "support.function.be.latex",
+        "settings": {
+          "foreground": "#fffa6d"
+        }
+      },
+      {
+        "scope": "variable.parameter.function.latex",
+        "settings": {
+          "foreground": "#ff9966"
+        }
+      },
+      {
+        "scope": "support.class.latex",
+        "settings": {
+          "foreground": "#ff66cc"
+        }
+      },
+      {
+        "scope": "support.function.general.tex",
+        "settings": {
+          "foreground": "#cc99ff",
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": "meta.function.environment.general.latex",
+        "settings": {
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": "support.function.section.latex",
+        "settings": {
+          "foreground": "#fffa6d"
+        }
+      },
+      {
+        "scope": "entity.name.section.latex",
+        "settings": {
+          "foreground": "#ff6666",
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": "support.function.textit.latex",
+        "settings": {
+          "foreground": "#b8ff66",
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": "markup.italic.textit.latex",
+        "settings": {
+          "foreground": "#ff6666",
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": "support.function.texttt.latex",
+        "settings": {
+          "foreground": "#b8ff66"
+        }
+      },
+      {
+        "scope": "markup.raw.texttt.latex",
+        "settings": {
+          "foreground": "#ff6666"
+        }
+      },
+      {
+        "scope": "support.function.textbf.latex",
+        "settings": {
+          "foreground": "#b8ff66",
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": "markup.bold.textbf.latex",
+        "settings": {
+          "foreground": "#ff6666",
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": "support.function.url.latex",
+        "settings": {
+          "foreground": "#ffcc99",
+          "fontStyle": "underline"
+        }
+      },
+      {
+        "scope": "support.function.footnote.latex",
+        "settings": {
+          "foreground": "#ff6666",
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": "keyword.other.item.latex",
+        "settings": {
+          "foreground": "#99ff99",
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": "keyword.control.layout.latex",
+        "settings": {
+          "foreground": "#b8ff66",
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": "keyword.control.label.latex",
+        "settings": {
+          "foreground": "#99fff8",
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": "keyword.control.ref.latex",
+        "settings": {
+          "foreground": "#b8ff66",
+          "fontStyle": "underline",
+        }
+      },
+      {
+        "scope": "keyword.control.cite.latex",
+        "settings": {
+          "foreground": "#ffd466",
+          "fontStyle": "underline",
+        }
+      },
+      {
+        "scope": "keyword.control.include.latex",
+        "settings": {
+          "foreground": "#ff66d1",
+        }
+      }
+    ]
